@@ -1,0 +1,2 @@
+motorctrl:wanderbot
+-DCATKIN_DEVEL_PREFIX=/home/irin/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/irin/catkin_ws/install -G Unix Makefiles

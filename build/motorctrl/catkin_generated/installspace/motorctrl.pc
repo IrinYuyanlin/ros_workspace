@@ -1,0 +1,8 @@
+prefix=/home/irin/catkin_ws/install
+
+Name: motorctrl
+Description: Description of motorctrl
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/irin/catkin_ws/install/lib 
+Requires: 
